@@ -130,7 +130,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.GoMarketplace"
+        applicationId "com.gomarketplace"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
